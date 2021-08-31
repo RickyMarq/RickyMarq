@@ -2,8 +2,8 @@
 
 <div>
   <div href="https://rickymarq.github.io">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=RickyMarq&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyMarq&layout=compact&langs_count=7&theme=gruvbox"/><img height="100"
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RickyMarq&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyMarq&layout=compact&langs_count=7&theme=gruvbox"/><img height="150"
 
 </div>
 <div style="display: inline_block"><br>
