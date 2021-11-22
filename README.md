@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyMarq&layout=compact&langs_count=7&theme=gruvbox"/><img height="150"
 
 </div>
-<h3 align="left">Linguagem e Ferramentas:</h3>
+<h3 align="left">Linguagem e Ferramentas que utilizo:</h3>
 <p aligh="left">
 
   <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
