@@ -1,6 +1,6 @@
 # Oi, como vai ? ᕕ( ᐛ ) ᕗ
 
-## Meu nome é **Henrique Marques** e eu sou um desenvolvedor iOS apaixonado pelo ecossistema apple e por música nas horas vagas. Eu tenho experiência em trabalhar com projetos que utilizem **Firebase**, **CocoaPods**, Conhecimento e impletação de arquiteturas **MVC** e **MVVM**. Eu cursei desenvolvimento iOS com Swift na EBAC, onde eu aprendi na prática o desenvolvimento para iOS com Swift 5.
+##### Meu nome é **Henrique Marques** e eu sou um desenvolvedor iOS apaixonado pelo ecossistema apple e por música nas horas vagas. Eu tenho experiência em trabalhar com projetos que utilizem **Firebase**, **CocoaPods**, Conhecimento e impletação de arquiteturas **MVC** e **MVVM**. Eu cursei desenvolvimento iOS com Swift na EBAC, onde eu aprendi na prática o desenvolvimento para iOS com Swift 5.
 
 <h3>Meus Status do Github:</h3>
 <div>
