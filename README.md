@@ -13,7 +13,7 @@ Eu cursei desenvolvimento iOS com Swift na **EBAC**, onde eu aprendi na prática
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyMarq&layout=compact&langs_count=7&theme=gruvbox"/><img height="150"
 
 </div>
-<h3 align="left">Linguagem e Ferramentas que utilizo:</h3>
+<h3 align="left">Linguagem e Ferramentas que utilizo em meus projetos:</h3>
 <p aligh="left">
 
   <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
@@ -21,6 +21,8 @@ Eu cursei desenvolvimento iOS com Swift na **EBAC**, onde eu aprendi na prática
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> 
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+    <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+
   
   
  
