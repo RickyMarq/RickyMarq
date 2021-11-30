@@ -27,6 +27,7 @@ No momento estou cursando **Agile Culture** na universidade **FIAP** para execut
  
 <h3>Portfólio de Programação e UI Design:</h3>
     <a href="https://www.sketch.com/workspace/82e9a48b-bfe0-4447-a7a6-39030836d316/shares" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
+    <a href="https://www.sketch.com/workspace/82e9a48b-bfe0-4447-a7a6-39030836d316/shares" target="_blank"><img src=" https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <div> 
    
  
@@ -35,7 +36,7 @@ No momento estou cursando **Agile Culture** na universidade **FIAP** para execut
   <a href="https://www.instagram.com/henrique_marques76/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:henriquefmcosta75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-marques-5553581b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.trello.com/henriqueferreiramarquescosta/boards/" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
+   <a href=https://trello.com/henriqueferreiramarquescosta/" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
 </div>
 
 
