@@ -27,7 +27,7 @@ No momento estou cursando **Agile Culture** na universidade **FIAP** para execut
  
 <h3>Portfólio de Programação e UI iOS Design:</h3>
     <a href="https://github.com/RickyMarq?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="https://www.sketch.com/workspace/82e9a48b-bfe0-4447-a7a6-39030836d316/shares" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
+    <a href="https://www.figma.com/files/recent?fuid=1046987136681124216" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
     <a href=https://trello.com/b/Aowpvjy0/kanban-tabs-ui/" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
   <div> 
    
