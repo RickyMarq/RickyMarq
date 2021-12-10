@@ -32,8 +32,7 @@ No momento estou cursando **Agile Culture** na universidade **FIAP** para execut
     <a href="https://drive.google.com/drive/folders/1JLaVrQzgBYpfrcFv88sFKQDk9BX-QIo7?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
     
   <div> 
-  PS: Caso não tenha conta no Sketch eu disponibilizo tudo no meu Drive :) 
-   
+  PS: Caso queira ver o meu portfólio de UI e não tenha conta no sketch eu ofereco tudo no Google Drive :)
  <h3>Onde me contatar:</h3>
   <div> 
   <a href="https://www.instagram.com/rick_marques06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
