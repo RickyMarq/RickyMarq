@@ -27,7 +27,7 @@ No momento estou cursando **Agile Culture** na universidade **FIAP** para execut
  
 <h3>Portfólio de Programação e UI iOS Design:</h3>
     <a href="https://github.com/RickyMarq?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="https://drive.google.com/drive/u/0/my-drive" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
+    <a href="https://drive.google.com/drive/folders/1JLaVrQzgBYpfrcFv88sFKQDk9BX-QIo7?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
     <a href=https://trello.com/b/Aowpvjy0/kanban-tabs-ui/" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
   <div> 
 PS: Caso não tenha conta no Sketch eu disponibilizo tudo no meu Drive :) 
