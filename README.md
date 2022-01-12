@@ -1,6 +1,6 @@
 # Oi, como vai ?  ᕕ( ᐛ ) ᕗ
 
-Olá, meu nome é **Henrique Marques** e eu sou um **desenvolvedor iOS** apaixonado pelo ecossistema Apple e por música nas horas vagas.
+Olá, meu nome é **Henrique Marques** e eu sou um **desenvolvedor iOS** apaixonado pelo ecossistema Apple e por música nas horas vagas haha.
 
 Eu tenho experiência em trabalhar com projetos que utilizem **Firebase**, **CocoaPods**, e conhecimento e impletação de arquiteturas **MVC** e **MVVM**.
 
