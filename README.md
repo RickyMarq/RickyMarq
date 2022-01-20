@@ -30,9 +30,10 @@ No momento estou cursando **Agile Culture** na universidade **FIAP** para execut
     <a href="https://www.sketch.com/workspace/82e9a48b-bfe0-4447-a7a6-39030836d316/shares" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
     <a href=https://trello.com/b/Aowpvjy0/kanban-tabs-ui/" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
     <a href="https://drive.google.com/drive/folders/1JLaVrQzgBYpfrcFv88sFKQDk9BX-QIo7?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
-    
+  <div>
+  PS: Eu mantenho o meu Trello aqui caso queira saber o andamento dos meus projetos pessoais.
   <div> 
-  PS: Caso queira ver o meu portfólio de UI e não tenha conta no sketch eu disponibilizo tudo no Google Drive ˙ ͜ʟ˙
+  PS1: Caso queira ver o meu portfólio de UI e não tenha conta no sketch eu disponibilizo tudo no Google Drive ˙ ͜ʟ˙
  <h3>Onde me contatar:</h3>
   <div> 
   <a href="https://www.instagram.com/rick_marques06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
