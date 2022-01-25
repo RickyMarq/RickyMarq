@@ -1,15 +1,15 @@
-# Oi, como vai ?  ᕕ( ᐛ ) ᕗ
+# Hey,  how is it going ?  ᕕ( ᐛ ) ᕗ
 
-Olá, meu nome é **Henrique Marques** e eu sou um **desenvolvedor iOS** apaixonado pelo ecossistema Apple e por música nas horas vagas haha.
+Hello, my name is Henrique Marques, i'm a iOS developer who loves music and just sometimes i like Apple hahah just kidding.
 
-<h3>Meus Status do Github:</h3>
+<h3>My Github Stats:</h3>
 <div>
   <div href="https://rickymarq.github.io">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RickyMarq&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyMarq&layout=compact&langs_count=7&theme=gruvbox"/><img height="150"
 
 </div>
-<h3 align="left">Linguagem e Ferramentas que utilizo em meus projetos:</h3>
+<h3 align="left"> Programming Language and Tools I use in my projects:</h3>
 <p aligh="left">
 
   <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
@@ -19,16 +19,16 @@ Olá, meu nome é **Henrique Marques** e eu sou um **desenvolvedor iOS** apaixon
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
  
-<h3>Portfólio de Programação e UI iOS Design:</h3>
+<h3>Programming Portfolio and iOS UI Design:</h3>
     <a href="https://github.com/RickyMarq?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="https://www.sketch.com/workspace/82e9a48b-bfe0-4447-a7a6-39030836d316/shares" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
     <a href=https://trello.com/b/Aowpvjy0/kanban-tabs-ui/" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
     <a href="https://drive.google.com/drive/folders/1JLaVrQzgBYpfrcFv88sFKQDk9BX-QIo7?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
   <div>
-  PS: Eu mantenho o meu Trello aqui caso queira saber o andamento dos meus projetos pessoais.
+  PS: I keep my Trello here in case you want to know the progress of my personal projects.
   <div> 
-  PS1: Caso queira ver o meu portfólio de UI e não tenha conta no sketch eu disponibilizo tudo no Google Drive ˙ ͜ʟ˙
- <h3>Onde me contatar:</h3>
+  PS1: If you want to see my UI portfolio and don't have a Sketch account, I make everything available on Google Drive ˙ ͜ʟ˙
+ <h3>Connect with me:</h3>
   <div> 
   <a href="https://www.instagram.com/rick_marques06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:henriquefmcosta75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
