@@ -24,7 +24,7 @@ Hello, my name is Henrique Marques, i'm a iOS developer who loves music and just
     <a href=https://trello.com/b/Aowpvjy0/kanban-tabs-ui/" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
     <a href="https://drive.google.com/drive/folders/1JLaVrQzgBYpfrcFv88sFKQDk9BX-QIo7?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
   <div>
-  PS: I keep my Trello here in case you want to know the progress of my personal projects.
+  PS: I keep my Trello here in case you want to know the progress of my personal project.
   <div> 
   PS1: If you want to see my UI portfolio click the Google Drive icon. I keep it there for those who doesn't have a Sketch account  ˙ ͜ʟ˙
  <h3>Connect with me:</h3>
