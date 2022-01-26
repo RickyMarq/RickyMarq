@@ -26,7 +26,7 @@ Hello, my name is Henrique Marques, i'm a iOS developer who loves music and just
   <div>
   PS: I keep my Trello here in case you want to know the progress of my personal projects.
   <div> 
-  PS1: If you want to see my UI portfolio click the Google Drive icon  ˙ ͜ʟ˙
+  PS1: If you want to see my UI portfolio click the Google Drive icon. I keep it there for those who doesn't have a Sketch account  ˙ ͜ʟ˙
  <h3>Connect with me:</h3>
   <div> 
   <a href="https://www.instagram.com/rick_marques06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
