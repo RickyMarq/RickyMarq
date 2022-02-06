@@ -1,6 +1,10 @@
 # Hey,  how is it going ?  ᕕ( ᐛ ) ᕗ
 
-Hello, my name is Henrique Marques, i'm a iOS developer who loves music and just sometimes i like Apple hahah just kidding.
+Hello, my name is Henrique Marques, i'm a iOS developer who loves music and programming, i mean, just when the code runs haha, just kidding.
+
+Currently, i'm on the 100 days of swift challenge with the objective to improve my advanced swift skills.
+
+Link: https://www.hackingwithswift.com/100
 
 <h3>My Github Stats:</h3>
 <div>
