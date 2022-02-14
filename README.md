@@ -10,7 +10,8 @@ Link: https://www.hackingwithswift.com/100
 <div>
   <div href="https://rickymarq.github.io">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RickyMarq&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyMarq&layout=compact&langs_count=7&theme=gruvbox"/><img height="150"
+  <img width="385em" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyMarq&theme=compact&langscount=7&theme=gruvbox" alt="somekindofwallflower" />
+</p>
 
 </div>
 <h3 align="left"> Programming Language and Tools I use in my projects:</h3>
@@ -37,8 +38,4 @@ Link: https://www.hackingwithswift.com/100
   <a href = "mailto:henriquefmcosta75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-marques-5553581b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
-
-
-
-
 
