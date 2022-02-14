@@ -39,3 +39,4 @@ Link: https://www.hackingwithswift.com/100
   <a href="https://www.linkedin.com/in/henrique-marques-5553581b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
