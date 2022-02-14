@@ -10,9 +10,9 @@ Link: https://www.hackingwithswift.com/100
 <div>
   <div href="https://rickymarq.github.io">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RickyMarq&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="385em" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyMarq&theme=compact&langscount=7&theme=gruvbox" alt="somekindofwallflower" />
+  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=RickyMarq&theme&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="RickyMarq" />
 </p>
-
+  
 </div>
 <h3 align="left"> Programming Language and Tools I use in my projects:</h3>
 <p aligh="left">
@@ -39,3 +39,4 @@ Link: https://www.hackingwithswift.com/100
   <a href="https://www.linkedin.com/in/henrique-marques-5553581b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 
+  ![](./profile-3d-contrib/profile-night-view.svg)
