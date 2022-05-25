@@ -30,7 +30,7 @@ Link: https://www.hackingwithswift.com/100
     <a href="https://drive.google.com/drive/folders/1JLaVrQzgBYpfrcFv88sFKQDk9BX-QIo7?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
   <div> 
   PS: If you want to see some app icons or mini UI projects that i've done check the Google Drive icon. I keep it there for those who don't have a Sketch account  ˙ ͜ʟ˙
- <h3>Connect with me:</h3>
+ <h3>How to reach me:</h3>
   <div> 
   <a href="https://www.instagram.com/rick_marques06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:henriquefmcosta75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
