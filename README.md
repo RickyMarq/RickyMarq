@@ -2,10 +2,6 @@
 
 Hello, my name is Henrique Marques, i'm a iOS developer who loves music and programming, i mean, just when xcode doesn't crashes haha, kidding.
 
-Currently, i'm on the 100 days of swift challenge with the objective to improve my swift skills.
-
-Link: https://www.hackingwithswift.com/100
-
 <h3>My Github Stats:</h3>
 <div>
   <div href="https://rickymarq.github.io">
@@ -20,7 +16,6 @@ Link: https://www.hackingwithswift.com/100
   <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> 
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
