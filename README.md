@@ -1,6 +1,6 @@
-# Hey,  how is it going ?  ᕕ( ᐛ ) ᕗ
-
-Hello, my name is Henrique Marques, i'm a iOS developer who loves music and programming, i mean, just when xcode doesn't crashes haha, kidding.
+# Hey, what's up 
+ 
+ I'm Henrique Marques, a random dude who loves technology and the apple ecosystem. Who's seeking grow as an iOS Dev. 
 
 <h3>My Github Stats:</h3>
 <div>
@@ -16,15 +16,10 @@ Hello, my name is Henrique Marques, i'm a iOS developer who loves music and prog
   <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  
-<h3>Programming Portfolio and iOS UI Design:</h3>
-    <a href="https://github.com/RickyMarq?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="https://drive.google.com/drive/folders/1JLaVrQzgBYpfrcFv88sFKQDk9BX-QIo7?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
+ 
   <div> 
-  PS: If you want to see some app icons or mini UI projects that i've done check the Google Drive icon. I keep it there for those who don't have a Sketch account  ˙ ͜ʟ˙
  <h3>How to reach me:</h3>
   <div> 
   <a href="https://www.instagram.com/rick_marques06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
