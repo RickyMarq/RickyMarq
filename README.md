@@ -18,6 +18,7 @@
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+     <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg">
  
   <div> 
  <h3>How to reach me:</h3>
