@@ -1,4 +1,4 @@
-# Hey, what's up 
+# Hey, what's up 🤠
  
  I'm Henrique Marques, a random dude who loves technology and the apple ecosystem. Who's seeking grow as an iOS Dev. 
 
