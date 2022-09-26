@@ -1,7 +1,12 @@
 # Hey, what's up 🤠
  
  I'm Henrique Marques, a random dude who loves technology and the apple ecosystem. Who's seeking grow as an iOS Dev. 
-
+ 
+ I'm also translating english articles about iOS development for Brazilian Portuguese, check it out
+-> [Portuguese Articles](https://drive.google.com/drive/folders/1HjM5rKgEwRCJSgD9rUJiISvmsBRWzgEn?usp=sharing)
+ 
+PS: I'm not the owner of the contents of the articles. I'm only translating for people that don't know english, but want know about ios development 🤠
+ 
 <h3>My Github Stats:</h3>
 <div>
   <div href="https://rickymarq.github.io">
