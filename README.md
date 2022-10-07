@@ -3,7 +3,7 @@
  I'm Henrique Marques, a random dude who loves technology and the apple ecosystem. Who's seeking grow as an iOS Dev. 
  
  I'm also translating english articles about iOS development for Brazilian Portuguese, check it out
--> [Portuguese Articles](https://drive.google.com/drive/folders/1HjM5rKgEwRCJSgD9rUJiISvmsBRWzgEn?usp=sharing)
+-> [Portuguese Articles](https://www.notion.so/BackFront-Artigos-Traduzidos-2b1e7dd7e2ca4eb88e95e1021b76c848)
  
 PS: I'm not the owner of the contents of the articles. I'm only translating for people that don't know english, but want know about ios development 🤠
  
