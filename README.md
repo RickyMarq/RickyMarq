@@ -2,10 +2,11 @@
  
  I'm Henrique Marques, a random dude who loves technology and the apple ecosystem. Who's seeking grow as an iOS Dev. 
  
- I'm also translating english articles about iOS development for Brazilian Portuguese, check it out
--> [Portuguese Articles](https://www.notion.so/BackFront-Artigos-Traduzidos-2b1e7dd7e2ca4eb88e95e1021b76c848)
- 
-PS: I'm not the owner of the contents of the articles. I'm only translating for people that don't know english, but want know about ios development 🤠
+ Some projects that I already done:
+
+ Movies -> https://testflight.apple.com/join/ysQbNxzw
+
+ Vegan Choice -> https://testflight.apple.com/join/roe1UdVE
  
 <h3>My Github Stats:</h3>
 <div>
