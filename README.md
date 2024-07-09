@@ -1,12 +1,12 @@
-# Hey, what's up 🤠
+# Hey, what's up 🚀
  
- I'm Henrique Marques, a random dude who loves technology and the apple ecosystem. Who's seeking grow as an iOS Dev. 
- 
- Some projects that I already done:
+👨‍💻 Midlevel Software Engineer at Wexp
 
- Movies -> https://testflight.apple.com/join/ysQbNxzw
+🎓 Graduated in Systems Analysis and Development at Anhembi Morumbi
 
- Vegan Choice -> https://testflight.apple.com/join/roe1UdVE
+🎥 IOS teacher at Backfront Academy iOS Bootcamp 
+
+👾 Actual Professor of Backfront Academy
  
 <h3>My Github Stats:</h3>
 <div>
