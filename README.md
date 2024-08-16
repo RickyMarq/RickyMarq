@@ -1,6 +1,6 @@
 # Hey, what's up 🚀
  
-👨‍💻 Midlevel Software Engineer at Wexp
+👨‍💻 Midlevel Software Engineer at InEvent
 
 🎓 Graduated in Systems Analysis and Development at Anhembi Morumbi
 
