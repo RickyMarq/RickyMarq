@@ -3,10 +3,6 @@
 👨‍💻 Midlevel Software Engineer at InEvent
 
 🎓 Graduated in Systems Analysis and Development at Anhembi Morumbi
-
-🎥 IOS teacher at Backfront Academy iOS Bootcamp 
-
-👾 Actual Professor of Backfront Academy
  
 <h3>My Github Stats:</h3>
 <div>
